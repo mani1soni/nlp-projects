@@ -53,7 +53,7 @@ Welcome to the NLP Projects Repository! This collection of projects explores var
 
 | <img alt="Manish Soni" src="https://avatars3.githubusercontent.com/u/30206849?s=460&v=4" height="70"   />                                                                                                                  |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Manish Soni](https://mani1soni.github.io/)<br><strong>Twitter</strong>: [@manisomanish](https://twitter.com/manisomanish)<br><strong>Github</strong>: [@mani1soni](https://github.com/mani1soni)<br> <strong>Linkedin<strong>: [@manisomanish](https://www.linkedin.com/in/manisomanish/)<br> _Cloud & DevOps Engineer_ |
+| [Manish Soni](https://manisomanish.com/)<br><strong>Twitter</strong>: [@manisomanish](https://twitter.com/manisomanish)<br><strong>Github</strong>: [@mani1soni](https://github.com/mani1soni)<br> <strong>Linkedin<strong>: [@manisomanish](https://www.linkedin.com/in/manisomanish/)<br> _Cloud & DevOps Engineer_ |
 
 
 
