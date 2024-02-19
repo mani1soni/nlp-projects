@@ -9,7 +9,7 @@ Welcome to the NLP Projects Repository! This collection of projects explores var
 
 * Create a new branch in your forked repository and then start working
 * Include a proper commit message in your commits
-* Always rebase with `main:mani1soni/nl-projects` to avoid merge conflicts whenever you start to work
+* Always rebase with `main:mani1soni/nlp-projects` to avoid merge conflicts whenever you start to work
 * Include proper PR message while giving pull request
 * Try to keep pull requests small to minimize merge conflicts
 
