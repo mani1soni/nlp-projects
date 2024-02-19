@@ -1,4 +1,4 @@
-# NLP Projects Repository
+# NLP Projects
 
 ## Introduction
 
